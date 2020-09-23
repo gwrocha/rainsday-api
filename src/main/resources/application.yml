@@ -14,3 +14,7 @@ spring:
     username: sa
     password: 
 
+openweather:
+  api:
+    url: http://api.openweathermap.org/data/2.5/forecast
+    key: ace7577f413330c21eff60e4661e2c45
